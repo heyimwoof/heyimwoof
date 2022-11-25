@@ -23,9 +23,8 @@
 - SET toolkit
 - Invicti
 
-![akame-akame-ga-kill](https://user-images.githubusercontent.com/108382118/203888722-1db03d47-2f40-4a3a-a157-03b4706825fd.gif)
+<img align="right">![akame-akame-ga-kill](https://user-images.githubusercontent.com/108382118/203888722-1db03d47-2f40-4a3a-a157-03b4706825fd.gif)<img align="right">
 
-<sup><sub>Thanks for reading.</sub></sup>
 <!---
 heyimwoof/heyimwoof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
