@@ -1,3 +1,5 @@
+<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/489019595265595860/781BA5633B703E4AA629826102DDECB5E9C16529/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)/100/100">
+
 **About me!** 
       ( -_•)╦̵̵̿╤─
      
@@ -22,8 +24,6 @@
 - sqlmap
 - SET toolkit
 - Invicti
-
-<img align="right">![akame-akame-ga-kill](https://user-images.githubusercontent.com/108382118/203888722-1db03d47-2f40-4a3a-a157-03b4706825fd.gif)<img align="right">
 
 <!---
 heyimwoof/heyimwoof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
