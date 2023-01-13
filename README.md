@@ -16,15 +16,6 @@
 - Laptop **[Razer Blade 14 2022](https://www.razer.com/au-en/gaming-laptops/razer-blade-14)**
 - OS Virtualisation **VMware Workstation 17 Pro**
 
-**Applications I use on Kali Linux!** 👾
-- Nmap
-- Wireshark
-- Metasploit
-- John the Ripper
-- sqlmap
-- SET toolkit
-- Invicti
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0HE2LN)
 <!---
 heyimwoof/heyimwoof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
