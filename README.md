@@ -9,7 +9,7 @@
 - Business Inquiries **heyimwoof@gmail.com**                                                                
 
 **Social media!** 🌐
-- Discord **woof#8834**
+- Discord **woof#4630**
 - Twitter **[heyimwoof](https://twitter.com/heyimwoof)**
 
 **What I use for my workflow?** 💻
