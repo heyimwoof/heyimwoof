@@ -18,7 +18,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0HE2LN)
 
-![](https://komarev.com/ghpvc/?username=heyimwoof&color=ff69b4)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyimwoof&theme=github_dark&show_icons=true)
+
+![](https://komarev.com/ghpvc/?username=heyimwoof&color=blue)
 
 <!---
 heyimwoof/heyimwoof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
