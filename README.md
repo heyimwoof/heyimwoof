@@ -18,7 +18,6 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0HE2LN)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyimwoof&theme=github_dark&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=heyimwoof&color=blue&style=flat-square)
 ![](https://img.shields.io/badge/-Owner%20of%20Vision%20Client-ff69b4?style=flat-square&logo=appveyor)
